@@ -1,1 +1,1 @@
-worker: python runme.py
+web: python runme.py
